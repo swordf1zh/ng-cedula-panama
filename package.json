@@ -1,0 +1,35 @@
+{
+  "name": "ng-cedula-panama",
+  "version": "1.0.0",
+  "description": "Client-side validation for panamanian id numbers in AngularJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swordf1zh/ng-cedula-panama.git"
+  },
+  "homepage": "",
+  "scripts": {
+    "build": "grunt build"
+  },
+  "author": {
+    "name": "Ricardo Tribaldos",
+    "email": "rtribaldos@baru.studio",
+    "url": "http://baru.studio"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "validation",
+    "angular validation",
+    "validator",
+    "client-side",
+    "cedula",
+    "panama"
+  ],
+  "main": "./src/ng-cedula-panama.js",
+  "bugs": "https://github.com/swordf1zh/ng-cedula-panama/issues",
+  "devDependencies": {},
+  "dependencies": {
+    "cedula-panama": "^1.0.0"
+  }
+}
